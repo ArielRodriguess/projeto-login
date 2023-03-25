@@ -63,4 +63,8 @@ Grandes Telas: acima de 1200px
   font-size: 1.2em;
   margin: 20px 0;
  }
+
+ .campo > input {
+  transform: translateY(-10.5px);
+ }
 }
